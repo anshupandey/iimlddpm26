@@ -1,0 +1,151 @@
+feedback_id,customer_id,plan_tier,nps_score,product_area,feedback_text,submitted_date
+FB0001,U0026,Free,4,Pricing,Enterprise pricing is not competitive. We're evaluating alternatives.,2025-02-10
+FB0002,U0251,Pro,4,Mobile App,Push notifications are unreliable. Sometimes they arrive hours late.,2025-01-29
+FB0003,U0143,Enterprise,5,Mobile App,The mobile experience is way behind the desktop version.,2025-01-06
+FB0004,U0559,Pro,4,Mobile App,Mobile app crashes every time I try to edit a task description.,2025-01-03
+FB0005,U0433,Free,6,Search,The search function doesn't find anything unless you type the exact title.,2025-03-24
+FB0006,U0031,Enterprise,6,Search,Search is basically useless. Can never find tasks I know exist.,2025-01-09
+FB0007,U0224,Free,4,Mobile App,Mobile app crashes every time I try to edit a task description.,2025-01-19
+FB0008,U0518,Free,6,Onboarding,Why isn't there a guided setup? I had to watch YouTube videos to understand the basics.,2025-03-15
+FB0009,U0575,Free,4,Pricing,The jump from Free to Pro is too steep. Need a middle tier.,2025-03-19
+FB0010,U0559,Enterprise,5,Export,Tried to export our quarterly review and the file was corrupted.,2025-02-18
+FB0011,U0226,Free,6,Search,Can't search by assignee or date range. Basic functionality missing.,2025-03-15
+FB0012,U0285,Free,6,Pricing,Would gladly pay more for the features we actually use instead of paying for everything.,2025-01-18
+FB0013,U0164,Pro,9,General,FlowBoard has transformed how our team works. Best decision we made.,2025-03-26
+FB0014,U0349,Free,6,Pricing,We love FlowBoard but the pricing for a 50-person team is hard to justify.,2025-02-13
+FB0015,U0160,Pro,4,Search,I spend 10 minutes searching for things that should take 10 seconds.,2025-03-17
+FB0016,U0345,Free,6,Onboarding,Why isn't there a guided setup? I had to watch YouTube videos to understand the basics.,2025-02-08
+FB0017,U0095,Free,4,Onboarding,It took me 3 days to figure out how to create my first project. Needs a better tutorial.,2025-01-05
+FB0018,U0100,Free,3,Search,Can't search by assignee or date range. Basic functionality missing.,2025-03-26
+FB0019,U0353,Free,6,Onboarding,Signed up last week and still don't understand the difference between boards and projects.,2025-02-05
+FB0020,U0271,Free,4,Search,We have 500+ tasks and finding anything is a nightmare.,2025-02-26
+FB0021,U0471,Pro,8,General,FlowBoard has transformed how our team works. Best decision we made.,2025-03-06
+FB0022,U0128,Pro,6,Search,Tried searching for a task by keyword and got zero results. It was right there.,2025-01-23
+FB0023,U0081,Pro,3,Export,Exported data has duplicate rows. Spent 2 hours cleaning it up.,2025-01-15
+FB0024,U0301,Free,2,Onboarding,I invited 5 team members and 3 of them couldn't figure out how to create tasks.,2025-01-29
+FB0025,U0592,Enterprise,5,Export,The export feature crashes when there are more than 200 tasks.,2025-03-15
+FB0026,U0072,Free,5,Pricing,Price increase was unexpected. Would appreciate more notice.,2025-02-01
+FB0027,U0234,Pro,8,General,FlowBoard has transformed how our team works. Best decision we made.,2025-01-14
+FB0028,U0082,Enterprise,10,General,The timeline view is perfect for managing dependencies across teams.,2025-03-02
+FB0029,U0104,Pro,10,Automations,Just set up 5 automations and they're working perfectly. Great feature.,2025-01-09
+FB0030,U0285,Free,4,Search,Can't search by assignee or date range. Basic functionality missing.,2025-01-12
+FB0031,U0374,Pro,8,General,The API is well documented. Our integration was done in a day.,2025-03-18
+FB0032,U0380,Free,6,Pricing,You charge per user but half our team barely uses it. Need a different model.,2025-03-06
+FB0033,U0215,Free,2,Onboarding,Signed up last week and still don't understand the difference between boards and projects.,2025-01-06
+FB0034,U0074,Free,4,Pricing,Great product but honestly overpriced compared to competitors.,2025-01-26
+FB0035,U0547,Enterprise,4,Export,The CSV export includes HTML tags in the description field. Unusable.,2025-01-03
+FB0036,U0168,Pro,5,Export,Tried to export our quarterly review and the file was corrupted.,2025-03-31
+FB0037,U0389,Pro,2,Export,Why can't I export filtered views? I have to export everything and filter in Excel.,2025-03-22
+FB0038,U0571,Pro,6,Search,I spend 10 minutes searching for things that should take 10 seconds.,2025-01-06
+FB0039,U0333,Free,4,Onboarding,Why isn't there a guided setup? I had to watch YouTube videos to understand the basics.,2025-02-04
+FB0040,U0235,Enterprise,3,Search,Search is basically useless. Can never find tasks I know exist.,2025-02-08
+FB0041,U0324,Free,5,Export,Exported a report and half the columns were missing. Had to redo manually.,2025-01-08
+FB0042,U0275,Free,9,Automations,Automations + integrations = magic. This is why we chose FlowBoard.,2025-01-26
+FB0043,U0217,Enterprise,5,Export,PDF export is broken. Charts don't render and dates are formatted wrong.,2025-03-09
+FB0044,U0218,Pro,4,Export,The export feature crashes when there are more than 200 tasks.,2025-02-24
+FB0045,U0406,Free,5,Export,Why can't I export filtered views? I have to export everything and filter in Excel.,2025-01-24
+FB0046,U0147,Enterprise,4,Pricing,Would gladly pay more for the features we actually use instead of paying for everything.,2025-01-12
+FB0047,U0143,Free,6,Pricing,Great product but honestly overpriced compared to competitors.,2025-03-25
+FB0048,U0575,Pro,4,Export,Tried to export our quarterly review and the file was corrupted.,2025-02-28
+FB0049,U0599,Free,10,General,The timeline view is perfect for managing dependencies across teams.,2025-03-07
+FB0050,U0598,Free,4,Onboarding,The initial setup wizard is missing basic steps. Had to contact support twice.,2025-01-20
+FB0051,U0371,Enterprise,9,Automations,Automations + integrations = magic. This is why we chose FlowBoard.,2025-01-15
+FB0052,U0142,Pro,10,General,Dashboard widgets give me everything I need in one view. Love it.,2025-03-25
+FB0053,U0094,Enterprise,9,General,The API is well documented. Our integration was done in a day.,2025-02-26
+FB0054,U0113,Free,6,Search,Search is basically useless. Can never find tasks I know exist.,2025-01-18
+FB0055,U0164,Enterprise,6,Search,Why can't I search within task descriptions? Only titles are searchable apparently.,2025-01-05
+FB0056,U0066,Free,6,Pricing,We love FlowBoard but the pricing for a 50-person team is hard to justify.,2025-03-13
+FB0057,U0391,Enterprise,4,Search,Can't search by assignee or date range. Basic functionality missing.,2025-01-03
+FB0058,U0480,Pro,6,Search,We have 500+ tasks and finding anything is a nightmare.,2025-02-22
+FB0059,U0258,Enterprise,3,Search,Tried searching for a task by keyword and got zero results. It was right there.,2025-02-18
+FB0060,U0118,Enterprise,4,Mobile App,The mobile app is painfully slow. Takes 8 seconds to load a board.,2025-03-23
+FB0061,U0349,Enterprise,9,Automations,The automation templates made it so easy to get started. More templates please!,2025-03-21
+FB0062,U0301,Pro,9,Automations,Love the automations. We automated our entire sprint workflow.,2025-03-18
+FB0063,U0162,Free,3,Onboarding,The initial setup wizard is missing basic steps. Had to contact support twice.,2025-02-25
+FB0064,U0004,Pro,5,Export,Why can't I export filtered views? I have to export everything and filter in Excel.,2025-01-17
+FB0065,U0513,Enterprise,8,Automations,The automation templates made it so easy to get started. More templates please!,2025-02-16
+FB0066,U0520,Free,7,Pricing,You charge per user but half our team barely uses it. Need a different model.,2025-03-02
+FB0067,U0306,Pro,6,Pricing,Enterprise pricing is not competitive. We're evaluating alternatives.,2025-03-29
+FB0068,U0520,Pro,2,Onboarding,The welcome email links to docs that don't match the current UI.,2025-01-22
+FB0069,U0204,Free,2,Onboarding,First impression was overwhelming. Too many options with no guidance.,2025-03-14
+FB0070,U0383,Free,4,Export,The CSV export includes HTML tags in the description field. Unusable.,2025-03-20
+FB0071,U0553,Pro,6,Pricing,You charge per user but half our team barely uses it. Need a different model.,2025-03-17
+FB0072,U0001,Pro,3,Search,Tried searching for a task by keyword and got zero results. It was right there.,2025-01-23
+FB0073,U0501,Free,4,Pricing,The free tier is too limited. Can't even export basic reports.,2025-02-09
+FB0074,U0115,Free,6,Pricing,The jump from Free to Pro is too steep. Need a middle tier.,2025-01-22
+FB0075,U0315,Free,4,Onboarding,Signed up last week and still don't understand the difference between boards and projects.,2025-02-18
+FB0076,U0060,Enterprise,6,Search,Search results are not ranked well. Irrelevant items show up first.,2025-01-29
+FB0077,U0581,Pro,5,Search,Search results are not ranked well. Irrelevant items show up first.,2025-03-07
+FB0078,U0088,Free,8,General,"Clean interface, powerful features. Exactly what we needed.",2025-01-05
+FB0079,U0071,Free,5,Mobile App,Haven't updated the mobile app in months. It feels abandoned.,2025-03-05
+FB0080,U0132,Pro,6,Mobile App,Can't upload attachments from mobile. This is 2025.,2025-03-10
+FB0081,U0563,Pro,3,,Search is the weakest part of the product. Please prioritize this.,2025-01-25
+FB0082,U0272,Free,6,Onboarding,The onboarding experience is terrible. I almost gave up on the first day.,2025-03-11
+FB0083,U0434,Free,4,Onboarding,I invited 5 team members and 3 of them couldn't figure out how to create tasks.,2025-01-25
+FB0084,U0553,Pro,6,Search,Search results are not ranked well. Irrelevant items show up first.,2025-01-08
+FB0085,U0206,Enterprise,5,Onboarding,Spent an hour just trying to set up my first workspace correctly.,2025-01-21
+FB0086,U0320,Free,3,Onboarding,Spent an hour just trying to set up my first workspace correctly.,2025-01-12
+FB0087,U0383,Free,3,Export,Exported data has duplicate rows. Spent 2 hours cleaning it up.,2025-03-12
+FB0088,U0530,Free,4,Pricing,Would gladly pay more for the features we actually use instead of paying for everything.,2025-01-09
+FB0089,U0124,Free,9,General,The API is well documented. Our integration was done in a day.,2025-01-13
+FB0090,U0231,Enterprise,5,Export,Tried to export our quarterly review and the file was corrupted.,2025-02-15
+FB0091,U0347,Free,3,Search,The search function doesn't find anything unless you type the exact title.,2025-03-01
+FB0092,U0568,Pro,3,Search,Search is basically useless. Can never find tasks I know exist.,2025-02-02
+FB0093,U0226,Free,4,,The mobile experience is way behind the desktop version.,2025-03-31
+FB0094,U0073,Pro,5,Export,Exported a report and half the columns were missing. Had to redo manually.,2025-03-19
+FB0095,U0235,Free,6,Search,Search is basically useless. Can never find tasks I know exist.,2025-01-14
+FB0096,U0033,Enterprise,8,Automations,Love the automations. We automated our entire sprint workflow.,2025-03-10
+FB0097,U0073,Free,3,Export,The export feature crashes when there are more than 200 tasks.,2025-03-07
+FB0098,U0244,Pro,4,Search,Tried searching for a task by keyword and got zero results. It was right there.,2025-03-11
+FB0099,U0498,Enterprise,3,Search,I spend 10 minutes searching for things that should take 10 seconds.,2025-01-08
+FB0100,U0553,Free,6,Onboarding,Why isn't there a guided setup? I had to watch YouTube videos to understand the basics.,2025-02-28
+FB0101,U0585,Free,3,Export,The CSV export includes HTML tags in the description field. Unusable.,2025-01-27
+FB0102,U0249,Pro,3,Export,Why can't I export filtered views? I have to export everything and filter in Excel.,2025-03-25
+FB0103,U0417,Pro,5,Pricing,Would gladly pay more for the features we actually use instead of paying for everything.,2025-01-11
+FB0104,U0097,Enterprise,2,Onboarding,Why isn't there a guided setup? I had to watch YouTube videos to understand the basics.,2025-03-06
+FB0105,U0442,Pro,6,Mobile App,Mobile app crashes every time I try to edit a task description.,2025-01-28
+FB0106,U0434,Free,6,Search,The search feature needs major improvement. Filters don't work properly.,2025-01-13
+FB0107,U0479,Pro,5,Pricing,We love FlowBoard but the pricing for a 50-person team is hard to justify.,2025-02-03
+FB0108,U0101,Pro,7,Pricing,The jump from Free to Pro is too steep. Need a middle tier.,2025-03-28
+FB0109,U0413,Enterprise,9,General,FlowBoard has transformed how our team works. Best decision we made.,2025-03-25
+FB0110,U0112,Pro,4,Mobile App,Mobile app doesn't support offline mode. Useless on flights.,2025-02-22
+FB0111,U0197,Free,6,Pricing,Price increase was unexpected. Would appreciate more notice.,2025-02-19
+FB0112,U0550,Free,4,Export,Tried to export our quarterly review and the file was corrupted.,2025-03-16
+FB0113,U0144,Free,3,Search,Search is the weakest part of the product. Please prioritize this.,2025-02-07
+FB0114,U0188,Free,2,Onboarding,The initial setup wizard is missing basic steps. Had to contact support twice.,2025-02-24
+FB0115,U0474,Enterprise,9,General,The timeline view is perfect for managing dependencies across teams.,2025-02-06
+FB0116,U0078,Pro,9,General,Dashboard widgets give me everything I need in one view. Love it.,2025-02-23
+FB0117,U0564,Pro,5,Export,Why can't I export filtered views? I have to export everything and filter in Excel.,2025-02-04
+FB0118,U0052,Free,5,Mobile App,Mobile app crashes every time I try to edit a task description.,2025-01-10
+FB0119,U0096,Free,7,Pricing,The jump from Free to Pro is too steep. Need a middle tier.,2025-03-23
+FB0120,U0171,Pro,4,Export,Tried to export our quarterly review and the file was corrupted.,2025-03-13
+FB0121,U0498,Pro,5,Export,Exported data has duplicate rows. Spent 2 hours cleaning it up.,2025-01-09
+FB0122,U0219,Pro,6,Search,Search is the weakest part of the product. Please prioritize this.,2025-03-31
+FB0123,U0061,Pro,6,Pricing,We love FlowBoard but the pricing for a 50-person team is hard to justify.,2025-01-18
+FB0124,U0389,Enterprise,5,Export,The CSV export includes HTML tags in the description field. Unusable.,2025-03-22
+FB0125,U0400,Free,2,Onboarding,I had no idea where to start after signing up. The setup process was confusing.,2025-01-19
+FB0126,U0466,Free,3,Onboarding,New team members keep asking me how to get started. We need a proper walkthrough.,2025-01-15
+FB0127,U0434,Enterprise,8,Automations,The automation templates made it so easy to get started. More templates please!,2025-03-08
+FB0128,U0570,Free,3,Onboarding,Spent an hour just trying to set up my first workspace correctly.,2025-03-30
+FB0129,U0159,Free,5,Search,Search is the weakest part of the product. Please prioritize this.,2025-03-28
+FB0130,U0304,Enterprise,4,Pricing,Price increase was unexpected. Would appreciate more notice.,2025-03-02
+FB0131,U0060,Free,3,Onboarding,Why isn't there a guided setup? I had to watch YouTube videos to understand the basics.,2025-02-03
+FB0132,U0556,Free,4,Search,We have 500+ tasks and finding anything is a nightmare.,2025-01-13
+FB0133,U0322,Free,10,Automations,The automation feature is a game changer! Saved our team hours every week.,2025-01-26
+FB0134,U0052,Enterprise,10,General,FlowBoard has transformed how our team works. Best decision we made.,2025-03-28
+FB0135,U0515,Pro,5,Pricing,Would gladly pay more for the features we actually use instead of paying for everything.,2025-02-24
+FB0136,U0059,Free,7,Pricing,You charge per user but half our team barely uses it. Need a different model.,2025-03-24
+FB0137,U0191,Free,6,Mobile App,Mobile app crashes every time I try to edit a task description.,2025-03-18
+FB0138,U0070,Enterprise,9,Automations,Love the automations. We automated our entire sprint workflow.,2025-01-22
+FB0139,U0414,Pro,9,General,Dashboard widgets give me everything I need in one view. Love it.,2025-03-08
+FB0140,U0584,Enterprise,10,Automations,Love the automations. We automated our entire sprint workflow.,2025-02-05
+FB0141,U0593,Free,6,Mobile App,The mobile experience is way behind the desktop version.,2025-01-24
+FB0142,U0041,Pro,4,Onboarding,First impression was overwhelming. Too many options with no guidance.,2025-03-02
+FB0143,U0084,Free,3,Onboarding,First impression was overwhelming. Too many options with no guidance.,2025-01-18
+FB0144,U0598,Free,5,Pricing,We love FlowBoard but the pricing for a 50-person team is hard to justify.,2025-03-24
+FB0145,U0268,Enterprise,8,Automations,Our team productivity jumped 30% after setting up automations. Incredible.,2025-02-10
+FB0146,U0322,Enterprise,6,Pricing,Price increase was unexpected. Would appreciate more notice.,2025-02-08
+FB0147,U0272,Free,6,Mobile App,The mobile experience is way behind the desktop version.,2025-02-03
+FB0148,U0135,Enterprise,6,Search,Can't search by assignee or date range. Basic functionality missing.,2025-03-22
+FB0149,U0469,Free,6,Pricing,Great product but honestly overpriced compared to competitors.,2025-01-30
+FB0150,U0075,Pro,9,General,Best project management tool I've used in 15 years of product management.,2025-03-16
